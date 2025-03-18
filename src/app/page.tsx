@@ -63,7 +63,7 @@ export default function Home() {
     <div className="flex justify-center">
 
       <div className="bg-white mt-5 p-3 rounded-4xl text-black text-center shadow-lg" style={{ width: "500px", marginTop: 100 }}>
-        <h1 className="font-bold text-[40px]">Sea level forecast</h1>
+        <h1 className="font-bold text-[40px]">Sea level forecast 123</h1>
         <div className="bg-white p-3 rounded-2x1 text-black text-center">
           <DatePicker label="Basic date picker"
             onChange={(newValue: any) => {
